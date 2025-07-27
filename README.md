@@ -1,5 +1,5 @@
 <div class="cover-extractor-info" style="font-family: Arial, sans-serif; line-height: 1.7;">
-  <h2>🎵 MP3 Cover Image Extractor – Free Online Tool</h2>
+<h2><a href="https://coverextractor.ememay.ir/">🎵 MP3 Cover Image Extractor – Free Online Tool</a></h2>
   <p><strong>This free online tool helps you extract embedded album artwork (cover images) from MP3 files quickly and effortlessly.</strong> Whether you're a music enthusiast, a content creator, or an archivist, this tool is designed to make retrieving MP3 cover art as seamless as possible.</p>
 
   <h3>✅ How It Works:</h3>
